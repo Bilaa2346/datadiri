@@ -1,0 +1,18 @@
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\bin\Debug\net8.0-windows\UTS  NABILAH ATIFAH.exe
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\bin\Debug\net8.0-windows\UTS  NABILAH ATIFAH.deps.json
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\bin\Debug\net8.0-windows\UTS  NABILAH ATIFAH.runtimeconfig.json
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\bin\Debug\net8.0-windows\UTS  NABILAH ATIFAH.dll
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\bin\Debug\net8.0-windows\UTS  NABILAH ATIFAH.pdb
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS__NABILAH_ATIFAH.Form1.resources
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS__NABILAH_ATIFAH.Form2.resources
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.AssemblyInfo.cs
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.dll
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\refint\UTS  NABILAH ATIFAH.dll
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.pdb
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS  NABILAH ATIFAH.genruntimeconfig.cache
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\ref\UTS  NABILAH ATIFAH.dll
+C:\Users\Hp\source\repos\UTS  NABILAH ATIFAH\UTS  NABILAH ATIFAH\obj\Debug\net8.0-windows\UTS__NABILAH_ATIFAH.Properties.Resources.resources
